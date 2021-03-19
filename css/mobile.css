@@ -1,0 +1,82 @@
+/* Navbar */
+#navbar {
+  text-align: center;
+}
+
+#navbar .logo {
+  float: none;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+#navbar ul {
+  float: none;
+}
+
+#navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 15px;
+}
+
+/* Showcase */
+#showcase {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.showcase-title {
+  border-radius: 20px;
+  float: none;
+  width: 100%;
+  padding: 30px 20px;
+}
+
+.showcase-title h1 {
+  font-size: 35px;
+  padding-bottom: 10px;
+}
+
+.showcase-description {
+  float: none;
+  width: 100%;
+  padding: 50px 20px;
+}
+
+.showcase-description h2 {
+  font-size: 30px;
+}
+
+/* Portfolio */
+#portfolio {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.portfolio-gradients {
+  height: 200px;
+  width: 40%;
+}
+
+.portfolio-description {
+  float: right;
+  width: 60%;
+  padding: 20px;
+}
+
+.portfolio-description h4 {
+  font-size: 20px;
+}
+
+.portfolio-description p {
+  font-size: 13px;
+}
+
+/* Contact */
+#contact {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 80%;
+}
